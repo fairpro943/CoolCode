@@ -1,0 +1,76 @@
+body {
+    background-color: rgb(58, 58, 58);
+}
+#js:link, #js:visited, #js:hover, #js:active {
+    border: 2px solid;
+    padding: 50px;
+    padding-right: 200px;
+    position: absolute;
+    top: 15%;
+    left: 80%;
+    color: rgb(253, 254, 255);
+    border-radius: 4px;
+}
+#cpp:link, #cpp:visited, #cpp:hover, #cpp:active {
+    border: 2px solid;
+    padding: 50px;
+    padding-right: 200px;
+    position: absolute;
+    top: 15%;
+    left: 58%;
+    color: rgb(253, 254, 255);
+    border-radius: 4px;
+}
+#go:link, #go:visited, #go:hover, #go:active {
+    border: 2px solid;
+    padding: 50px;
+    padding-right: 200px;
+    position: absolute;
+    top: 15%;
+    left: 37%;
+    color: rgb(253, 254, 255);
+    border-radius: 4px;
+}
+#html:link, #html:visited, #html:hover, #html:active {
+    border: 2px solid;
+    padding: 50px;
+    padding-right: 200px;
+    position: absolute;
+    top: 15%;
+    left: 14%;
+    color: rgb(253, 254, 255);
+    border-radius: 4px;
+}
+#java:link, #java:visited, #java:hover, #java:active {
+    border: 2px solid;
+    padding: 50px;
+    padding-right: 200px;
+    position: absolute;
+    top: 35%;
+    left: 80%;
+    color: rgb(253, 254, 255);
+    border-radius: 4px;
+}
+#php:link, #php:visited, #php:hover, #php:active {
+    border: 2px solid;
+    padding: 50px;
+    padding-right: 200px;
+    position: absolute;
+    top: 35%;
+    left: 58%;
+    color: rgb(253, 254, 255);
+    border-radius: 4px;
+}
+#hrinfo {
+    position: absolute;
+    top: 80%;
+}
+#hrinfo1 {
+    position: absolute;
+    top: 100%;
+}
+#home:link, #home:visited, #home:hover, #home:active {
+    border: 2px solid;
+    color: rgb(253, 254, 255);
+    border-radius: 4px;
+}
