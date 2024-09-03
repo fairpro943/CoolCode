@@ -29,6 +29,13 @@ h1 {
     top: 5%;
     left: 8%;
 }
+#imgc {
+    width: 90px;
+    height: 100px;
+    position: absolute;
+    top: 3%;
+    left: 5%;
+}
 #imgcpp {
     width: 90px;
     height: 90px;
@@ -58,13 +65,42 @@ h1 {
     left: 5%;
 }
 #imgphp {
-    width: 150px;
+    width: 150x;
     height: 120px;
     position: absolute;
     top: 2%;
     left: 8%;
 }
-#js:link, #js:visited, #js:active {
+#imgpython {
+    width: 153px;
+    height: 100px;
+    position: absolute;
+    top: 3%;
+    left: 8%;
+}
+#python {
+    border: 2px solid;
+    padding: 50px;
+    padding-right: 193px;
+    position: absolute;
+    top: 110%;
+    left: 14%;
+    color: rgb(253, 254, 255);
+    border-radius: 4px;
+    text-decoration: none;
+}
+#c {
+    border: 2px solid;
+    padding: 50px;
+    padding-right: 210px;
+    position: absolute;
+    top: 110%;
+    left: 37%;
+    color: rgb(253, 254, 255);
+    border-radius: 4px;
+    text-decoration: none;
+}
+#js:link, #js:visited {
     border: 2px solid;
     padding: 50px;
     padding-right: 196px;
@@ -73,8 +109,9 @@ h1 {
     left: 80%;
     color: rgb(253, 254, 255);
     border-radius: 4px;
+    text-decoration: none;
 }
-#cpp:link, #cpp:visited, #cpp:active {
+#cpp:link, #cpp:visited {
     border: 2px solid;
     padding: 50px;
     padding-right: 200px;
@@ -83,8 +120,9 @@ h1 {
     left: 58%;
     color: rgb(253, 254, 255);
     border-radius: 4px;
+    text-decoration: none;
 }
-#go:link, #go:visited, #go:active {
+#go:link, #go:visited {
     border: 2px solid;
     padding: 50px;
     padding-right: 200px;
@@ -93,8 +131,9 @@ h1 {
     left: 37%;
     color: rgb(253, 254, 255);
     border-radius: 4px;
+    text-decoration: none;
 }
-#html:link, #html:visited, #html:active {
+#html:link, #html:visited {
     border: 2px solid;
     padding: 50px;
     padding-right: 200px;
@@ -103,8 +142,9 @@ h1 {
     left: 14%;
     color: rgb(253, 254, 255);
     border-radius: 4px;
+    text-decoration: none;
 }
-#java:link, #java:visited, #java:active {
+#java:link, #java:visited {
     border: 2px solid;
     padding: 50px;
     padding-right: 176px;
@@ -113,8 +153,9 @@ h1 {
     left: 80%;
     color: rgb(253, 254, 255);
     border-radius: 4px;
+    text-decoration: none;
 }
-#php:link, #php:visited, #php:active {
+#php:link, #php:visited {
     border: 2px solid;
     padding: 50px;
     padding-right: 200px;
@@ -123,18 +164,30 @@ h1 {
     left: 58%;
     color: rgb(253, 254, 255);
     border-radius: 4px;
+    text-decoration: none;
 }
 .pro {
-    background-color: rgb(31, 32, 31);
+    background: linear-gradient(to right, #04e2ff, #8a00fc);
     color: black;
+    text-decoration: none;
 }
 .pro:hover {
     border: 2px solid;
     padding: 50px;
     padding-right: 200px;
     position: absolute;
-    background-color: rgb(2, 182, 236);
+    background: linear-gradient(to right, #00188F, #EC008C);
     border-radius: 16px;
+    text-decoration: none;
+}
+.pro:active {
+    border: 2px solid;
+    padding: 50px;
+    padding-right: 200px;
+    position: absolute;
+    background: linear-gradient(to right, #09cc03, #003b12);
+    border-radius: 16px;
+    text-decoration: none;
 }
 .inf {
     color: aliceblue;
@@ -150,21 +203,24 @@ h1 {
     padding-right: 50px;
     padding-left: 50px;
     background-color: rgb(255, 255, 255);
+    background: linear-gradient(to right, #04e2ff, #8a00fc);
     color: rgb(0, 0, 0);
     border-radius: 4px;
     position: absolute;
     top: 2%;
     left: 88%;
+    text-decoration: none;
 }
 #home:hover {
     border: 2px solid;
-    padding: 12px;
-    padding-right: 55px;
-    padding-left: 55px;
-    background-color: rgb(60, 255, 0);
+    padding: 10px;
+    padding-right: 50px;
+    padding-left: 50px;
+    background: linear-gradient(to right, #fc0202, #cb21ff);
     color: rgb(0, 0, 0);
     border-radius: 4px;
     position: absolute;
     top: 2%;
     left: 88%;
+    text-decoration: none;
 }
