@@ -15,7 +15,12 @@ h4 {
     font-size: 40px;
     color: rgb(1, 106, 243);
 }
-#video 
+#video {
+    width: 400px;
+    position: absolute;
+    top: 2%;
+    left: 62%;
+}
 h1 {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 150px;
